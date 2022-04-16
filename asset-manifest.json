@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/VouchDigitalAssignment/static/css/main.f300d466.css",
-    "main.js": "/VouchDigitalAssignment/static/js/main.ab877ae0.js",
+    "main.js": "/VouchDigitalAssignment/static/js/main.bdf7458d.js",
     "static/media/img.PNG": "/VouchDigitalAssignment/static/media/img.8421ffc1e72193cc98d3.PNG",
     "index.html": "/VouchDigitalAssignment/index.html",
     "main.f300d466.css.map": "/VouchDigitalAssignment/static/css/main.f300d466.css.map",
-    "main.ab877ae0.js.map": "/VouchDigitalAssignment/static/js/main.ab877ae0.js.map"
+    "main.bdf7458d.js.map": "/VouchDigitalAssignment/static/js/main.bdf7458d.js.map"
   },
   "entrypoints": [
     "static/css/main.f300d466.css",
-    "static/js/main.ab877ae0.js"
+    "static/js/main.bdf7458d.js"
   ]
 }
